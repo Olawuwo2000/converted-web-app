@@ -3,7 +3,7 @@ import requests
 
 
 
-url = 'http://localhost:9696/predict'
+url = 'http://localhost:3000/predict'
 
 
 
